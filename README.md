@@ -123,3 +123,5 @@ All the apps under AdventAI are available under the MIT license. See the [LICENS
 ## Code of Conduct
 
 AdventAI follows the Contributor Covenant [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) for all incoming contributions.
+
+[Back to Top ⬆️](#hello-adventai---day-1️⃣)
